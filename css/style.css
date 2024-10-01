@@ -8,6 +8,14 @@ ul {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: aliceblue;
+}
+
 section {
   padding: 200px 0;
   height: 1000px;
@@ -22,7 +30,7 @@ section {
 header {
   position: fixed;
   width: 100%;
-  background-color: aliceblue;
+  background-color: hotpink;
   padding: 20px 0;
 }
 
